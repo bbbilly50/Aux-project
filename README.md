@@ -1,0 +1,2 @@
+# Aux-project
+SHELL SCRIPTING
